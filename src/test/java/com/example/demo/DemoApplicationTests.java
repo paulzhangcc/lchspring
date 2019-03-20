@@ -12,7 +12,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("hello world11");
+		System.out.println("hello world22");
 	}
 
 }
